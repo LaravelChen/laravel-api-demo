@@ -12,4 +12,8 @@
 ### 整个效果演示
 ![](https://github.com/LaravelChen/laravel-api-demo/raw/master/images/record.gif)
 
+### 个人信息
+- 个人技术网站:https://laravelchen.com
+- ![](https://photo.laravelchen.cn/qqqqqun.png)
+
 
