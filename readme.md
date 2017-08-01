@@ -14,6 +14,6 @@
 
 ### 个人信息
 - 个人技术网站:https://laravelchen.com
-- ![](https://photo.laravelchen.cn/qqqqqun.png)
+- ![](https://photo.laravelchen.cn/qqqun.png)
 
 
