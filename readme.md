@@ -9,6 +9,6 @@
 实在不懂的可以在群里提问吧!或者在Laravel官网查看说明文档.
 
 ### 整个效果演示
-![](https://github.com/LaravelChen/laravel-api-demo/raw/master/image/record.gif)
+![](https://github.com/LaravelChen/laravel-api-demo/raw/master/images/record.gif)
 
 
